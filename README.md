@@ -1,5 +1,5 @@
-# Morra-Game
+# Client GUI
 
-faiuifasf
 
-# Test 2
+
+# Server GUI
